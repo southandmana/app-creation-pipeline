@@ -55,7 +55,7 @@ This pipeline creates **profitable micro SaaS applications** through an intellig
 □ Update TodoWrite: "Execute Step 1: Automated market research and micro SaaS selection" = in_progress
 □ Read file: `instructions/prompts/01_automated_research_selection.md` (REQUIRED)
 □ Access curated research links from `pipelines/micro-saas-web-app/research_links/market_research.md`
-□ Conduct live web research using research methodology from `actionable_systems/research_methodology.md`
+□ Conduct live web research using research methodology from `shared_resources/research_methodology.md`
 □ Analyze market opportunities and select #1 most profitable micro SaaS type
 □ Present selection with evidence-based reasoning (no user choice required)
 □ Update TodoWrite: Mark Step 1 as completed when selection presented

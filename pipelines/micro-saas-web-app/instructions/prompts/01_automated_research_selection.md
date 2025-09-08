@@ -36,7 +36,7 @@ Read file: pipelines/micro-saas-web-app/research_links/market_research.md
 **Apply Research Methodology:**
 ```bash
 # Use research methodology from actionable systems
-Apply framework from: actionable_systems/research_methodology.md
+Apply framework from: ../shared_resources/research_methodology.md
 ```
 
 **Mandatory Search Queries:**
@@ -236,7 +236,7 @@ This is the most profitable opportunity right now:
 • [Key reason 2 - competitive advantage identified] 
 • [Key reason 3 - technical feasibility with micro SaaS stack]
 
-Analyzing your system for optimal technology selection...
+Type 'continue' to optimize for your system...
 ```
 
 ---
